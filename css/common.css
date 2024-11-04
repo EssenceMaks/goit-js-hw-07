@@ -77,5 +77,6 @@ body p a:hover {
 @media (min-width: 1024px) {
   .gallery {
     grid-template-columns: repeat(3, 1fr);
+    width: 90vw;
   }
 }
